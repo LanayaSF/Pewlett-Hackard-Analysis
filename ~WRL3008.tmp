@@ -1,0 +1,17 @@
+# Pewlett-Hackard-Analysis
+
+## Overview of Analysis
+
+### Purpose: We supported Pewlett-Hackard in preparing for a large-scale departure of employees through retirement, by understanding the overall number of employees, the departments, and how we can support a transitional exit through a part-time mentorship program. This would ease the workload burden on PH in finding the right candidates to fill the upcoming vacant positions. 
+
+### Results: 
+* There will be 90,398 employees retiring. If all employees retire at 65, the departures will occur in between 2017-2020.
+* The top positions that will need to be filled due to retiring employees are (numbers in brackets): Senior Engineer (29,414), Senior Staff (28,255), Engineer (14,222), and Staff (12,242).
+* 84% of the staff retiring are in a technical role, which requires a lot of subject matter expertise
+* There are 1,549 people who are approaching retirement who can participate in a mentorship program that would quickly ramp up newly hired employees to fill retiring roles. 
+
+### Summary
+* There will be 90,398 employees retiring in between 2017 and 2020. Assuming each employee fills one role, there would need to be 90,398 roles to be filled from the silver tsunami
+* Given the number of employees identified to participate in the mentorship program and the vacant roles, we would have approximately 1:60 mentor to mentee ratio, which would be burdensome on the mentors and not a practical scale to ramp up newly hired employees. There are not enough employees and more need to be identified.
+* 
+* 

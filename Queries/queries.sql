@@ -54,3 +54,4 @@ CREATE TABLE titles (
 );
 
 SELECT * FROM departments;
+
